@@ -187,11 +187,11 @@ body div::-webkit-scrollbar, #about::-webkit-scrollbar, #skills::-webkit-scrollb
         #horizontal-cont #gallery-cont .item {
           background-size: auto 100%; } }
     #horizontal-cont #gallery-cont #slide-1 {
-      background-image: url(/images/gallery/slide-1.jpg); }
+      background-image: url(../../images/gallery/slide-1.jpg); }
     #horizontal-cont #gallery-cont #slide-2 {
-      background-image: url(/images/gallery/slide-2.jpg); }
+      background-image: url(../../images/gallery/slide-2.jpg); }
     #horizontal-cont #gallery-cont #slide-3 {
-      background-image: url(/images/gallery/slide-3.jpg); }
+      background-image: url(../../images/gallery/slide-3.jpg); }
     #horizontal-cont #gallery-cont #gallery-intro {
       position: absolute;
       bottom: 10%;
@@ -218,7 +218,7 @@ body div::-webkit-scrollbar, #about::-webkit-scrollbar, #skills::-webkit-scrollb
             color: #fff; } }
   #horizontal-cont #about {
     padding-left: 5vw;
-    background-image: url(images/bg-1.jpg);
+    background-image: url(../../images/bg-1.jpg);
     background-size: auto 100%;
     background-position: top right;
     background-repeat: no-repeat;
@@ -550,15 +550,15 @@ body div::-webkit-scrollbar, #about::-webkit-scrollbar, #skills::-webkit-scrollb
         height: 40vh;
         background-size: auto 100%; } }
     #portfolio .col-sm-12:nth-child(1) {
-      background-image: url(/images/works/work1.jpg); }
+      background-image: url(../../images/works/work1.jpg); }
     #portfolio .col-sm-12:nth-child(2) {
-      background-image: url(/images/works/work2.jpg); }
+      background-image: url(../../images/works/work2.jpg); }
     #portfolio .col-sm-12:nth-child(3) {
-      background-image: url(/images/works/work3.jpg); }
+      background-image: url(../../images/works/work3.jpg); }
     #portfolio .col-sm-12:nth-child(4) {
-      background-image: url(/images/works/work4.jpg); }
+      background-image: url(../../images/works/work4.jpg); }
     #portfolio .col-sm-12:nth-child(5) {
-      background-image: url(/images/works/work5.jpg); }
+      background-image: url(../../images/works/work5.jpg); }
     #portfolio .col-sm-12 .proj-overlay {
       position: relative;
       background-color: #ffb400;
@@ -678,6 +678,6 @@ body div::-webkit-scrollbar, #about::-webkit-scrollbar, #skills::-webkit-scrollb
       text-transform: uppercase; }
 
 #blog {
-  background-image: url(/images/works/work-details4.jpg);
+  background-image: url(../../images/works/work-details4.jpg);
   background-size: auto 100%;
   background-repeat: no-repeat; }
