@@ -218,7 +218,7 @@ body div::-webkit-scrollbar, #about::-webkit-scrollbar, #skills::-webkit-scrollb
             color: #fff; } }
   #horizontal-cont #about {
     padding-left: 5vw;
-    background-image: url(/images/bg-1.jpg);
+    background-image: url(../images/bg-1.jpg);
     background-size: auto 100%;
     background-position: top right;
     background-repeat: no-repeat;
